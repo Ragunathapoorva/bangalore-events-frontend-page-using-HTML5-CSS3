@@ -1,6 +1,5 @@
 ﻿# bangalore-events-frontend-page-using-HTML5-CSS3
 
- # Bangalore Events Frontend Page (HTML5 & CSS3)
 
 This project is a simple, responsive frontend web page for listing and showcasing events happening in Bangalore. The page is built using only HTML5 and CSS3, focusing on clean structure, semantic markup, and modern styling without using JavaScript frameworks or libraries.
 
@@ -40,4 +39,5 @@ This project is a simple, responsive frontend web page for listing and showcasin
 
 
 Feel free to use this template as a starting point for your own static web pages and event sites!
+
 
